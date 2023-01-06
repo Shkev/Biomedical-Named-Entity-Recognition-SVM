@@ -1,2 +1,2 @@
 # Biomedical-Named-Entity-Recognition-SVM
-Implementation of the ICBBE paper by Z. Ju, J. Wang, and F. Zhu
+Implementation of the ICBBE paper by Z. Ju, J. Wang, and F. Zhu: [Named Entity Recognition from Biomedical Text Using SVM](https://ieeexplore.ieee.org/abstract/document/5779984?casa_token=LfzUcM-Q5UIAAAAA:N643qRey6BRcy2F3_PB9j3zRRhUHMLzvz5dnQqePzoWlHQLXT9EhYxngCxBy8Ui3HkhQsnC68w). The data for this task is obtained from the [GENIA dataset](http://www.geniaproject.org/genia-corpus/pos-annotation).
